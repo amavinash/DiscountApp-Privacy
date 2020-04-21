@@ -6,8 +6,8 @@ We do not collect, use, save, or have access to any of your personal data record
 
 Individual settings relating to the DiscountApp are not personal and are stored only on your device. We don’t process that information at all and have no access to it.
 
-### Our Applications Comply with the Children’s Online Privacy Protection Act
-Our application don’t collect personal information from anyone, including children under the age of 13.
+### Our Application Comply with the Children’s Online Privacy Protection Act
+Our application does not collect personal information from anyone, including children under the age of 13.
 
 ### Contact Us
 If you have any questions about this Privacy Policy, feel free to get in touch with us by writing to [discountApp support.](https://twitter.com/discountApp_) 
